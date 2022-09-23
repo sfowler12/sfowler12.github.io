@@ -13,4 +13,13 @@ html {
 body {
     box-sizing: border-box;
     font-size: 1.6rem;
+    font-family: "Helvetica Nueue", Arial, Calibri
+}
+
+h1 {
+    text-align: center;
+}
+
+#coming-soon {
+
 }
